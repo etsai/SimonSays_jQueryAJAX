@@ -1,0 +1,1 @@
+App that randomly changes colors of a box when you click on "Click me" using AJAX.
